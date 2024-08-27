@@ -1,0 +1,11 @@
+# Test Even Numbers
+GET http://localhost:9876/number/e
+
+# Test Prime Numbers
+GET http://localhost:9876/number/p
+
+# Test Fibonacci Numbers
+GET http://localhost:9876/number/f
+
+# Test Random Numbers
+GET http://localhost:9876/number/r
